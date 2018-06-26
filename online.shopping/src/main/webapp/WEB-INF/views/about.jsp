@@ -5,4 +5,3 @@
         <p>This is an about page</p>        
     </div>    
 </div>
-   
